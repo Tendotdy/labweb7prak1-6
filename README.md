@@ -11,6 +11,7 @@ praktikum 2
 ![Screenshot 2025-04-25 165324](https://github.com/user-attachments/assets/4d5173fe-1381-4fef-b3ac-4db3faa89cca)
 
 praktikum 3
+memperbagus ui
 ![Screenshot 2025-04-25 165537](https://github.com/user-attachments/assets/65b6d5e2-f871-4fa8-b91b-66f3c16f4134)
 
 praktikum 4
@@ -20,9 +21,11 @@ selesai memasukkan akun dan pasword  yang benar
 ![Screenshot 2025-04-25 165751](https://github.com/user-attachments/assets/4a605b75-ee6e-4c72-90d8-d26a77a2c53b)
 
 praktikum 5
+menambahkan search artikel
 ![Screenshot 2025-04-25 165751](https://github.com/user-attachments/assets/0063b16a-4898-4dd8-b1bb-5d1c5bd3b00d)
 
 praktikum 6
+menambahkan fitur input image di artikel
 
 ![Screenshot 2025-04-25 165846](https://github.com/user-attachments/assets/247f8b73-a8cd-4b2f-a737-f54877d974ef)
 
